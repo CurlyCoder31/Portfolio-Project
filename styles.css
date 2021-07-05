@@ -33,3 +33,20 @@ h2 {
   margin-top: 10px;
   font-weight: bold;
 }
+.btn-branding-projects {
+  background: black;
+  color: white;
+  padding: 12px 20px;
+  font-family: var(--secondary-font-family);
+  margin-bottom: 10px;
+}
+p {
+  font-family: var(--secondary-font-family);
+  font-size: 25px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: var(--primary-font-family);
+  font-size: 35px;
+}
