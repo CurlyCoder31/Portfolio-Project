@@ -54,3 +54,14 @@ h3 {
 .side-text {
   font-size: 15px;
 }
+
+.desc {
+  padding: 120px 60px;
+}
+
+@media (max-width: 900px) {
+  .desc {
+    padding: 0;
+    text-align: center;
+  }
+}
