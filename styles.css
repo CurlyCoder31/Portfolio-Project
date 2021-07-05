@@ -1,3 +1,35 @@
+:root {
+  --primary-font-family: "Abril Fatface", cursive;
+  --secondary-font-family: "Montserrat", sans-serif;
+}
+
 h1 {
-  font-family: "Abril Fatface", cursive;
+  font-family: var(--primary-font-family);
+  color: whitesmoke;
+  font-size: 96px;
+  font-weight: normal;
+  margin-top: -12px;
+}
+
+.hero {
+  background: black;
+  text-align: center;
+  padding: 160px 20px;
+}
+.hero p,
+h2 {
+  font-family: var(--secondary-font-family);
+  color: white;
+  font-size: 25px;
+  margin: 0;
+}
+
+.btn-branding {
+  background: white;
+  color: black;
+  padding: 12px 20px;
+  font-family: var(--secondary-font-family);
+  margin-bottom: 15px;
+  margin-top: 10px;
+  font-weight: bold;
 }
