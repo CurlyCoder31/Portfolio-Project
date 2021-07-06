@@ -67,9 +67,13 @@ h3 {
   h1 {
     font-size: 55px;
   }
+  .about-section {
+    text-align: center;
+    padding: 0;
+  }
 }
 
-.hero-about {
+.about-section {
   text-align: center;
   padding: 160px 20px;
 }
