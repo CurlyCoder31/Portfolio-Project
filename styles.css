@@ -111,3 +111,12 @@ h3 {
   font-size: 15px;
   text-align: center;
 }
+
+.contact-content h1 {
+  color: black;
+  text-align: center;
+  padding: 160px 20px;
+}
+.contact-content link {
+  text-decoration: none;
+}
