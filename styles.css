@@ -70,11 +70,23 @@ h3 {
 }
 
 .hero-about {
-  background: black;
   text-align: center;
   padding: 160px 20px;
 }
 
-.about-text {
-  font-size: 55px;
+.about-section h1 {
+  font-size: 70px;
+  color: black;
+}
+.about-section h2 {
+  color: black;
+  font-size: 15px;
+}
+.about-section p {
+  color: black;
+  font-size: 15px;
+}
+.headshot {
+  border-radius: 20px;
+  max-width: 300px;
 }
