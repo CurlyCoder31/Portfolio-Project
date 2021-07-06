@@ -100,3 +100,14 @@ h3 {
   text-align: center;
   padding: 160px 20px;
 }
+
+.work-content h4 {
+  font-size: 20px;
+  font-family: var(--primary-font-family);
+  text-align: center;
+}
+
+.work-content p {
+  font-size: 15px;
+  text-align: center;
+}
