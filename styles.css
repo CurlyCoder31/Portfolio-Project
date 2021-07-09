@@ -40,6 +40,13 @@ h2 {
   font-family: var(--secondary-font-family);
   margin-bottom: 10px;
 }
+
+.btn-branding-projects a:hover {
+  color: black;
+  background: white;
+  font-weight: bold;
+  transition: all 100ms ease-in-out;
+}
 p {
   font-family: var(--secondary-font-family);
   font-size: 25px;
@@ -76,6 +83,12 @@ h3 {
 .about-section {
   text-align: center;
   padding: 160px 20px;
+}
+.about-section a:hover {
+  color: black;
+  background-color: white;
+  font-weight: bold;
+  transition: all 100ms ease-in-out;
 }
 
 .about-section h1 {
