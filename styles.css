@@ -119,4 +119,18 @@ h3 {
 }
 .contact-content link {
   text-decoration: none;
+  color: black;
+}
+.social-links a {
+  margin: 0 20px;
+  color: white;
+  padding: 10px 14px;
+  background-color: black;
+  border-radius: 50%;
+  font-size: 18px;
+}
+.social-links a:hover {
+  color: black;
+  background-color: white;
+  transition: all 100ms ease-in-out;
 }
